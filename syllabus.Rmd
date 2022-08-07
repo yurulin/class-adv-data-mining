@@ -1,0 +1,82 @@
+---
+title: "Syllabus (Fall 2022)"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    code_folding: none
+    theme: united
+    includes:
+      in_header: header.html
+      after_body: after.html
+  html_notebook:
+    toc: yes
+---
+
+<div class="alert alert-secondary" role="alert">
+*This page is subject to change before the start of the course*.
+</div>
+
+<div class="alert alert-warning" role="alert">
+**Fall 2022 Special Requirement ([source](https://teaching.pitt.edu/resources/syllabus-checklist/))**
+
+During this pandemic, it is extremely important that you abide by the [public health regulations](https://www.alleghenycounty.us/Health-Department/Resources/COVID-19/COVID-19.aspx), the University of Pittsburgh's [health standards and guidelines](https://www.policy.pitt.edu/university-policies-and-procedures/covid-19-standards-and-guidelines), and [Pitt's Health Rules](https://www.coronavirus.pitt.edu/healthy-community/pitts-health-rules). These rules have been developed to protect the health and safety of all of us.  Universal [face covering](https://www.coronavirus.pitt.edu/frequently-asked-questions-about-face-coverings) is required in all classrooms and in every building on campus, without exceptions, regardless of vaccination status. This means you must wear a face covering that properly covers your nose and mouth when you are in the classroom. If you do not comply, you will be asked to leave class.  It is your responsibility have the required face covering when entering a university building or classroom. For the most up-to-date information and guidance, please visit [coronavirus.pitt.edu](http://coronavirus.pitt.edu/) and check your Pitt email for updates before each class.
+
+If you are required to isolate or quarantine, become sick, or are unable to come to class, contact me as soon as possible to discuss arrangements.
+  
+
+</div>
+
+# Learning Objectives
+
+* Understand the fundamentals of data mining techniques, particularly with the graph setting
+* Learn recent advanced methods and algorithms in analyzing large and complex datasets
+* Gain experience in conducting research in data mining
+* Develop skills to implement data mining algorithms and solve real-world applications
+
+
+# Course Content
+
+Topics to be covered:
+
+* network analysis
+* probabilistic models
+* neural network and deep learning
+* text mining and representation
+* graph mining, including ranking, classification, clustering and community detection, summarization, similarity, representation learning in the graph setting
+* recommendation systems and matrix factorization
+* graph neural networks
+* selective topics, e.g., sequence modeling, spatiotemporal modeling, causal modeling
+
+
+See the course [schedule](https://docs.google.com/spreadsheets/d/1R75v6J2hxWMFaf_JrgM7jkKq5HzLX2uYZtQ_YoU0xm0/edit?usp=sharing) for the most up-to-date weekly topics.
+
+# Computing / Programming skill requirement
+This course will use R and/or Python for computing, so fluency in either or both programming languages is required. GitHub will be used for homework and project assignments, where tools such as [Jupyter Notebooks](https://jupyter.org/) or [R Markdown](http://rmarkdown.rstudio.com/) will be used for creating reproducible data science documents. Examples in lectures or homework assignments will be mainly in R/Python.
+
+# Prerequisites / Prior Knowledge
+* Successful completion of an introductory course in data mining (e.g., INFSCI 2160), machine learning (e.g., INFSCI 2725) or equivalent. 
+* Students are expected to have background knowledge in data structures, algorithms, basic linear algebra, probability theories, and statistics.
+* It is assumed that every student is familiar with basic data mining topics (regression, classification, clustering, etc.) and has experience with programming with one or more data mining tools (R/Python). 
+
+
+
+# Grading
+Grades are based on three major activities listed below. Assignments are due as scheduled, and grades on late work will be decreased by 10% per day late. See the assignment page for more details.
+
+* 40% in-class participation, presentation and reading (including quizzes and reading reflection/discussion)
+* 30% homework and midterm report
+* 30% final project (including several milestones)
+
+# Class Participation
+Class participation will be assessed through online and in-class discussions. The online discussion will be evaluated through students' participation in the post-reading discussion on an online forum (i.e., Teams).
+
+# Textbooks / Readings
+
+There are no required textbooks for this course. This course will use online materials and academic readings. There will be reading assignments over the course of the semester. Links to the electronic copies of these readings will be provided. 
+
+The reading assignment will be evaluated via reading reflection submission and in-class discussion. 
+
+# University Policies
+
+See the [university policies](https://docs.google.com/document/d/1O4xe5rnNo4PJAYSKlxfsClKnWR6l8sgf2zR5NAOZCwo/edit?usp=sharing) page.

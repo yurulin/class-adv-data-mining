@@ -1,0 +1,55 @@
+---
+title: "**Advanced Data Mining**"
+subtitle: "INFSCI 2915 @ PITT"
+
+output:
+  html_document:
+    toc: false
+    toc_float: true
+    code_folding: "none"
+    theme: united
+    includes:
+      in_header: header.html
+      after_body: after.html    
+---
+
+Welcome to the course page of Advanced Data Mining. This course is currently offered by Dr. [Yu-Ru Lin](http://www.yurulin.com/) in Fall 2022 at [School of Computing and Information](http://www.sci.pitt.edu/), [University of Pittsburgh](http://www.pitt.edu/). 
+
+# Basic information
+
+* Course name: INFSCI Advanced Data Mining (SPECIAL TOPICS: FOUNDATIONS)(Fall 2022)
+* Canvas link: *Coming Soon!*; Teams link: *Coming Soon!*
+* Class Meeting Time: Monday 9:00 am - 11:50 am
+* Meeting Place: 237 Cathedral of Learning
+* <span class="glyphicon glyphicon-user" aria-hidden="true"></span> Instructor: Dr. [Yu-Ru Lin](http://www.yurulin.com/)
+* <span class="glyphicon glyphicon-user" aria-hidden="true"></span> Teaching assistants: see Canvas
+
+
+
+<div class="alert alert-warning" role="alert">
+**Communication & Email policy**
+
+We will regularly post announcements on Teams related to schedule changes, assignments, graded quizzes, follow-ups to lectures, INFSCI-2915 and other school or department-related activities.
+
+Instead of email the instructor or TAs individually, please follow the class communication policy:
+
+* *Ask questions publicly*: In general, all questions about coursework, course logistics, etc. should be asked publicly on Teams. If you ask such a question privately, we will not answer it: we will ask you to post your question publicly, and will answer it once you do. This way, everyone can benefit from the answer to the question and, if someone runs into the same issue you do, we can refer them to the answer we provided in your post.
+* *Communicate private matters*: If you need to ask a private question, you can send an email to [yuru-class-adm [at] googlegroups [dot] com](yuru-class-adm@googlegroups.com). Your email will be seen only by the instructor and TAs. This should be used only for truly private matters that relate uniquely to you (e.g., you need to notify us of a family/medical emergency, etc.). 
+  
+
+</div>
+
+
+<!-- # Syllabus -->
+See the [Fall 2021 syllabus](syllabus.html).
+
+# Course Schedule
+See the course [schedule](https://docs.google.com/spreadsheets/d/1R75v6J2hxWMFaf_JrgM7jkKq5HzLX2uYZtQ_YoU0xm0/edit?usp=sharing) page.
+
+# Computing
+This course will use R and/or Python for computing, so fluency in either or both programming languages is required. GitHub will be used for homework and project assignments, where tools such as [Jupyter Notebooks](https://jupyter.org/) or [R Markdown](http://rmarkdown.rstudio.com/) will be used for creating reproducible data science documents. Examples in lectures or homework assignments will be mainly in R/Python.
+
+
+<div style="clear:both;margin-top:20px;"></div>
+
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
