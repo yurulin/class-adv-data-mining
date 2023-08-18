@@ -1,5 +1,5 @@
 ---
-title: "Syllabus (Fall 2023)"
+title: "Syllabus (Fall 2022)"
 output:
   html_document:
     toc: yes
@@ -18,7 +18,7 @@ output:
 </div>
 
 <div class="alert alert-warning" role="alert">
-**Fall 2023 Special Requirement ([source](https://teaching.pitt.edu/resources/syllabus-checklist/))**
+**Fall 2022 Special Requirement ([source](https://teaching.pitt.edu/resources/syllabus-checklist/))**
 
 During this pandemic, it is extremely important that you abide by the [public health regulations](https://www.alleghenycounty.us/Health-Department/Resources/COVID-19/COVID-19.aspx), the University of Pittsburgh's [health standards and guidelines](https://www.policy.pitt.edu/university-policies-and-procedures/covid-19-standards-and-guidelines), and [Pitt's Health Rules](https://www.coronavirus.pitt.edu/healthy-community/pitts-health-rules). These rules have been developed to protect the health and safety of all of us.  Universal [face covering](https://www.coronavirus.pitt.edu/frequently-asked-questions-about-face-coverings) is required in all classrooms and in every building on campus, without exceptions, regardless of vaccination status. This means you must wear a face covering that properly covers your nose and mouth when you are in the classroom. If you do not comply, you will be asked to leave class.  It is your responsibility have the required face covering when entering a university building or classroom. For the most up-to-date information and guidance, please visit [coronavirus.pitt.edu](http://coronavirus.pitt.edu/) and check your Pitt email for updates before each class.
 
@@ -49,7 +49,7 @@ Topics to be covered:
 * selective topics, e.g., sequence modeling, spatiotemporal modeling, causal modeling
 
 
-See the course [schedule](https://docs.google.com/spreadsheets/d/1C0RaZ4uZ2AyToYCW0xUJN0hGL4djnRnLm2CMSfta2jQ/edit?usp=sharing) for the most up-to-date weekly topics.
+See the course [schedule](https://docs.google.com/spreadsheets/d/1R75v6J2hxWMFaf_JrgM7jkKq5HzLX2uYZtQ_YoU0xm0/edit?usp=sharing) for the most up-to-date weekly topics.
 
 # Computing / Programming skill requirement
 This course will use R and/or Python for computing, so fluency in either or both programming languages is required. GitHub will be used for homework and project assignments, where tools such as [Jupyter Notebooks](https://jupyter.org/) or [R Markdown](http://rmarkdown.rstudio.com/) will be used for creating reproducible data science documents. Examples in lectures or homework assignments will be mainly in R/Python.

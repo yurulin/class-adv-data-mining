@@ -1,2 +1,2 @@
 # class-fairness-ml
-material for the "Fairness in ML" class
+material for the "Advanced Data Mining" class

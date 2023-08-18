@@ -1,0 +1,39 @@
+---
+title: "Data Science Resources"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    code_folding: none
+    theme: united
+    includes:
+      in_header: header.html
+      after_body: after.html
+  html_notebook:
+    toc: yes
+---
+
+
+# Math Foundation & Prerequisite
+* [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf) by Prof. Zico Kolter [pdf]
+* [Lecture Notes on Probability, Statistics and Linear Algebra](http://people.math.harvard.edu/~knill/teaching/math19b_2011/handouts/chapters1-19.pdf) by Prof. C.H. Taubes, available on Prof. Knill's course website [pdf] (undergraduate level)
+* [Gilbert Strang's Linear Algebra course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) & [video lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) [online course] (undergraduate level course)
+* Data Mining and Analysis: Foundations and Algorithms, Chapter 1 [[sample chapter](http://assets.cambridge.org/97805217/66333/excerpt/9780521766333_excerpt.pdf) available online]
+* [Introductory linear algebra with R](http://bendixcarstensen.com/APC/linalg-notes-BxC.pdf) [pdf]
+
+# Data Science with R
+* [R for Data Science](http://r4ds.had.co.nz/), by Garrett Grolemund, Hadley Wickham
+* [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/), by Roger D. Peng
+* [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/), by Roger D. Peng
+
+# Relevant courses & materials
+
+* [Machine learning](https://www.coursera.org/learn/machine-learning) by Prof. Andrew Ng at Coursera [online course]
+* Machine Learning by Prof. Milos Hauskrecht @ PITT CS Dept.
+* [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book2016June9.pdf) by Avrim Blum, John Hopcroft and Ravindran Kannan [book pdf]
+
+
+# Recommended Readings
+
+A list of research articles relevant to the Data Mining course topics can be found [here](https://docs.google.com/spreadsheets/d/17m7eeNhCYYo-Ayge1E69NVvIQ07lML0ciUdga5eptB8/edit#gid=699685866). 
+
